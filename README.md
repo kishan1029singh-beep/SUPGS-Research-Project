@@ -1,42 +1,70 @@
-# SUPGS – Student Universal Problem Guiding System
+# SUPGS Research Project
 
-## Overview
-SUPGS is an independent research-based project developed to explore how computational thinking and algorithmic logic can help in solving complex real-world problems.
+## Introduction
+SUPGS (Sustainable Urban Planning using Green Systems) is an independent student research project exploring how computational thinking and natural environmental systems may help reduce CO₂ emissions in urban areas.
 
-This project focuses on building a structured framework that guides problem-solving using logical decomposition, pattern recognition, and algorithmic reasoning.
+This project represents an early-stage learning and research effort connecting environmental understanding with basic computational modeling.
 
-## Author
-Kishan Singh  
-Independent Research Student (India)
+---
 
-## Project Goal
-The goal of SUPGS is to design a system that:
-- Breaks complex problems into smaller logical units
-- Applies algorithmic reasoning
-- Provides structured solution pathways
+## Project Idea
+Increasing vehicle numbers contribute to rising carbon emissions in cities.  
+This project studies a simplified model where natural green systems and planning strategies may help reduce emissions by approximately 10–15%.
 
-## Motivation
-Coming from a rural background, this project represents self-driven learning and research exploration in Computer Science without institutional resources.
+The aim is exploration and learning, not claiming a final real-world solution.
 
-## Features
-- Problem decomposition model
-- Logical workflow structure
-- Algorithm-based reasoning approach
-- Research-oriented design
+---
 
-## Tech Concept (Learning Phase)
-- Python (basic implementation)
-- Algorithmic Thinking
-- Computational Logic
+## What This Repository Contains
+- Research concept explanation
+- Methodology description
+- Early simulation approach
+- Basic Python implementation
 
-## Status
-This project is currently in the research and early implementation stage.
+---
 
-## Future Plans
-- Add Python implementations
-- Improve algorithm structure
-- Build prototype system
-- Publish research documentation
+## Method Overview
+1. Assume vehicle growth trend
+2. Model CO₂ increase logically
+3. Apply green-system reduction factor
+4. Compare emission trends
 
-## License
-This project is shared for academic and research purposes.
+---
+
+## Coding Implementation
+File: co2_graph.py
+
+This Python script generates a simple comparison graph showing:
+- CO₂ growth without intervention
+- CO₂ trend with the SUPGS model
+
+---
+
+## How to Run
+Requirements:
+Python 3 and matplotlib library
+
+Run the program using:
+python co2_graph.py
+
+---
+
+## Project Status
+This project is currently in the learning and early research stage.
+
+Future improvements may include:
+- Real-world dataset integration
+- Improved simulation models
+- Advanced computational analysis
+
+---
+
+## About the Author
+Kishan Singh is an independent student learner from India with strong interest in Mathematics, Physics, and Computer Science.
+
+This repository reflects a self-learning journey toward understanding computational research and problem solving.
+
+---
+
+## Note
+This project is part of a personal learning initiative and is open to improvement and academic feedback.
