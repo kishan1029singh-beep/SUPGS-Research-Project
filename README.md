@@ -58,6 +58,16 @@ Future improvements may include:
 - Advanced computational analysis
 
 ---
+## Results
+(Current theoretical observations and expected graph behavior)
+
+## Future Work
+- Mathematical validation
+- Simulation implementation
+- Graph visualization
+
+## Repository Structure
+Explain files briefly
 
 ## About the Author
 Kishan Singh is an independent student learner from India with strong interest in Mathematics, Physics, and Computer Science.
