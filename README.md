@@ -1,7 +1,7 @@
 # SUPGS Research Project
 
 ## Introduction
-SUPGS (Sustainable Urban Planning using Green Systems) is an independent student research project exploring how computational thinking and natural environmental systems may help reduce CO₂ emissions in urban areas.
+SUPGS ( Smart Urban Green Placement System) is an independent student research project exploring how computational thinking and natural environmental systems may help reduce CO₂ emissions in urban areas.
 
 This project represents an early-stage learning and research effort connecting environmental understanding with basic computational modeling.
 
